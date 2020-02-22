@@ -22,8 +22,8 @@ Change to Root user
 
 ## Download and compile ACE
 
-    wget http://download.dre.vanderbilt.edu/previous_versions/ACE-6.5.0.tar.gz
-    tar -zxvf ACE-6.5.0.tar.gz
+    wget http://download.dre.vanderbilt.edu/previous_versions/ACE-6.5.8.tar.gz
+    tar -zxvf ACE-6.5.8.tar.gz
     
 After decompression, there will be an ACE folder called ACE_wrappers in the downloaded directory.
 Set the variables
